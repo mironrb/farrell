@@ -1,4 +1,4 @@
-require "farrell/version"
+require 'farrell/version'
 
 module Farrell
   # Your code goes here...
